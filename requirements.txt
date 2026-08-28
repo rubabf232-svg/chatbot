@@ -1,2 +1,10 @@
 streamlit
-openai
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+chromadb
+sentence-transformers
+pypdf
+docx2txt
+duckduckgo-search
